@@ -8,4 +8,3 @@
 <img src='https://i.redd.it/t1pvmqlq3oc81.png'>
 
 <img src="https://github.com/siduck/chadwm/blob/screenshots/screenshots/gruvchad.png">
-(gruvbox material dark)
